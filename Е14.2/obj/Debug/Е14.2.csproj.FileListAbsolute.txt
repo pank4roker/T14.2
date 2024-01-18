@@ -1,0 +1,7 @@
+D:\марков_овчарук\Е14.2\bin\Debug\Е14.2.exe.config
+D:\марков_овчарук\Е14.2\bin\Debug\Е14.2.exe
+D:\марков_овчарук\Е14.2\bin\Debug\Е14.2.pdb
+D:\марков_овчарук\Е14.2\obj\Debug\Е14.2.csproj.AssemblyReference.cache
+D:\марков_овчарук\Е14.2\obj\Debug\Е14.2.csproj.CoreCompileInputs.cache
+D:\марков_овчарук\Е14.2\obj\Debug\Е14.2.exe
+D:\марков_овчарук\Е14.2\obj\Debug\Е14.2.pdb
